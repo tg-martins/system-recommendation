@@ -3,9 +3,27 @@
 
 EP 02 de ciência de dados, com objetivo de montar grafos ligando os dados e montar um sistema de recomendação utilizando dados do IMDb.
 
+
+## Atributos do nó pessoa
+
+| Id            |   Name                                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| nm0022608       | Fernande Albany |
+| nm0022607       | Carl Alstrup |
+| nm0016317       | Oda Alstrup |
+
+## Atributos do nó filme
+
+| Id              |   Title                 | Genres                      | Rating     |
+| ----------------| ------------------------|-----------------------------|---------- |
+| tt0000001       | Carmencita              |[Documentary, Short]         |5.7|
+| tt0000002       | Le clown et ses chiens  |[Animation, Short]           |5.8|
+| tt0000003       | Pauvre Pierrot          |[Animation, Comedy, Romance] |6.5|
+
 ## Exemplo das ligações
 
 ![Grafos](https://github.com/tg-martins/system-recommendation/blob/main/graphs.png)
+
 
 ## Rodando localmente
 
